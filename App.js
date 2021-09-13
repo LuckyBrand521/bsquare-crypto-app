@@ -71,7 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step Oneswefsss">
-            Edit <Text style={styles.highlight}>TestApp.js</Text> to 
+            Edit <Text style={styles.highlight}>TestApp.js</Text> to ssasdsd
           </Section>
           <Section title="Step Oneswefsss">
             Edit <Text style={styles.highlight}>TestsApp.js</Text> to change this
