@@ -1,1 +1,1 @@
-# bsquare-crypto-app
+# crypto-wallet
